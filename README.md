@@ -32,4 +32,6 @@ Passionate about coding, problem-solving, and building projects while continuous
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile
+- LinkedIn: www.linkedin.com/in/stuti-kumari-539ba5329
+
+- Email :-  Stutik490@gmail.com
