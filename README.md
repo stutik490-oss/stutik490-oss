@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**stutik490-oss/stutik490-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Stuti
 
-Here are some ideas to get you started:
+### Engineering Student | Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about coding, problem-solving, and building projects while continuously learning new technologies.
+
+## 👩‍💻 About Me
+
+- 🎓 Engineering Student
+- 💻 Learning Data Structures & Algorithms
+- ☕ Exploring Java, Python, and C
+- 🌐 Learning Web Development
+- 🌱 Exploring Open Source
+
+## 🛠️ Tech Stack
+
+- Java
+- Python
+- C
+- HTML
+- CSS
+- Git
+- GitHub
+
+## 🎯 Current Focus
+
+- Strengthening DSA fundamentals
+- Building projects
+- Learning software development
+- Contributing to Open Source
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn profile
